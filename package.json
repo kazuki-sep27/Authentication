@@ -23,6 +23,7 @@
 	"homepage": "https://github.com/kazuki-sep27/Authentication#readme",
 	"dependencies": {
 		"cookie-session": "^1.4.0",
+		"cors": "^2.8.5",
 		"express": "^4.17.1",
 		"mongoose": "^6.1.1",
 		"nodemon": "^2.0.15",
